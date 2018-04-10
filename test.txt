@@ -1,2 +1,3 @@
 this file is to test
 the gitbu practise
+added third line to check gitdiff
