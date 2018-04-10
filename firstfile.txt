@@ -3,3 +3,6 @@ Hai
 hello
 how are you
 how are you doing
+
+this is after creating account in github
+trying to push this file to github.com
